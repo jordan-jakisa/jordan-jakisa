@@ -24,12 +24,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jakisajordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakisajordan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jordan mungujakisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan mungujakisa" height="30" width="40" /></a>
+<a href="https://ug.linkedin.com/in/jordan-mungujakisa-b97b67210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan mungujakisa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14079462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14079462" height="30" width="40" /></a>
-<a href="https://kaggle.com/jordan mungujakisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jordan mungujakisa" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/jordanjakisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jordan mungujakisa" height="30" width="40" /></a>
 <a href="https://medium.com/@jordan.jakisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jordan.jakisa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jordanesque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jordanesque" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jordan.jakisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jordan.jakisa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCT8kFsjCCwyNDdGJ0KevmuQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jordanesque" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
