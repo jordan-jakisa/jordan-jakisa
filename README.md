@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jakisajordan" target="blank"><img src="https://img.shields.io/twitter/follow/jakisajordan?logo=twitter&style=for-the-badge" alt="jakisajordan" /></a> </p>
 
-- 🌱 I’m currently learning **KMM**
+- 🌱 I’m currently learning **KMM** and **Rust 🦀**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
