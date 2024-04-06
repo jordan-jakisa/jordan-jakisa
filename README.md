@@ -5,6 +5,8 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-jakisa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-jakisa&layout=compact&theme=transparent)    |
 | --------- | --------- |
 
+📇 See my apps on the [Google PlayStore](https://play.google.com/store/apps/dev?id=7809841656027328575)
+
 📄 Know about my experience [Resume](https://jordan-jakisa.github.io/resume-jordan/)
 
 📝 I regularly write articles on [Medium](https://medium.com/@jordan-mungujakisa)
