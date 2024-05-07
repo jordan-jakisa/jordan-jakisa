@@ -5,7 +5,7 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-jakisa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-jakisa&layout=compact&theme=transparent)    |
 | --------- | --------- |
 
-⚒️ I am currently working on [MealPlanner Pro]()
+⚒️ I am currently working on [MealPlanner Pro](https://play.google.com/store/apps/details?id=com.wankai.mealplannerpro)
 
 📇 See my apps on the [google playstore](https://play.google.com/store/apps/dev?id=7809841656027328575)
 
