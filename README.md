@@ -9,6 +9,6 @@
 
 📇 See my apps on the [google playstore](https://play.google.com/store/apps/dev?id=7809841656027328575)
 
-📄 Know about my experience [resume](https://jordan-jakisa.github.io/resume_jordan/)
+👷‍♂️ Know about my experience [resume](https://jordan-jakisa.github.io/resume_jordan/)
 
 📝 I regularly write articles on [medium](https://medium.com/@jordan-mungujakisa)
