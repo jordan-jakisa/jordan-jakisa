@@ -5,7 +5,7 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-jakisa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-jakisa&layout=compact&theme=transparent)    |
 | --------- | --------- |
 
-⚒️ I am currently building [MealPlanner Pro](https://play.google.com/store/apps/details?id=com.wankai.mealplannerpro)
+⚒️ I am currently building [MealPlanner Pro](https://play.google.com/store/apps/details?id=com.wankai.mealplannerpro), [SemesterAI](https://play.google.com/store/apps/details?id=tech.bawano.semester&hl=en_US) and [VerAInt](https://veraint.de/)
 
 📇 See my apps on the [google playstore](https://play.google.com/store/apps/dev?id=7809841656027328575)
 
